@@ -18,9 +18,8 @@ The development environment contains everything you need for **CIS2152**. This i
   - [Mocha](https://github.com/mochajs/mocha) (A Javascript testing framework)
 - **PHP**
 
-  [composer](https://getcomposer.org/) (A php package manager)
-
-  [phpunit](https://phpunit.de/) (a php unit testing framwork)
+  - [composer](https://getcomposer.org/) (A php package manager)
+  - [phpunit](https://phpunit.de/) (a php unit testing framwork)
 
 ### Extensions and Settings
 
