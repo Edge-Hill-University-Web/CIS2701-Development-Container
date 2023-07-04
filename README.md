@@ -26,3 +26,7 @@ The development environment contains everything you need for **CIS2152**. This i
 The following Vscode Extensions and settings are automatically configured
 
 - Coming Soon
+
+### FAQ
+
+If you get an error related to a corrupt installer. Please check that the checksum value for PHP Composer is the latest displayed on their webpage [here](https://getcomposer.org/download/)
