@@ -1,6 +1,7 @@
 # CIS2152 Fundamentals of Web Coding
 
-**Ready for 2023** A Visual Studio based Development Container for CIS2152.
+**[ Ready for 2023 ]** 
+A Visual Studio-based Development Container for CIS2152.
 
 
 ## Requirements
@@ -19,7 +20,7 @@ The development environment contains everything you need for **CIS2152**. This i
 - **PHP**
 
   - [composer](https://getcomposer.org/) (A php package manager)
-  - [phpunit](https://phpunit.de/) (a php unit testing framwork)
+  - [phpunit](https://phpunit.de/) (a PHP unit testing framework)
 
 ### Extensions and Settings
 
