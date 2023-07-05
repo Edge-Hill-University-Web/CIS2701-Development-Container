@@ -1,6 +1,6 @@
 # CIS2152 Fundamentals of Web Coding
 
-A Visual Studio based Development Container for CIS2152.
+**Ready for 2023** A Visual Studio based Development Container for CIS2152.
 
 
 ## Requirements
