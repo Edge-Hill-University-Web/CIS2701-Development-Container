@@ -9,8 +9,18 @@
   "otherPortsAttributes": {
     "onAutoForward": "openBrowser"
   },
+ 
   "customizations": {
     "vscode": {
+      "settings": {
+        "terminal.integrated.profiles.linux": {
+          "bash": {
+            "path": "/usr/bin/bash",
+            "icon": "terminal-bash"
+          }
+        },
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
       
       "extensions": [
 		  "xdebug.php-debug"
