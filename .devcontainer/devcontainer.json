@@ -1,5 +1,5 @@
 {
-  "name": "CIS2152",
+  "name": "CIS2701-Fundamentals-Web-Coding",
   "build": {
     "dockerfile": "Dockerfile",
     "args": {
@@ -31,7 +31,7 @@
   "postCreateCommand": "sh prepare.sh",
   "runArgs": [
     "--name",
-    "CIS2152-2023-Development-Environment"
+    "CIS2701-2024-Development-Environment"
   ],
   "remoteUser": "root"
 }
