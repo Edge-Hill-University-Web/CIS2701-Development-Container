@@ -2,5 +2,5 @@
 ARG VARIANT=jammy
 FROM mcr.microsoft.com/vscode/devcontainers/base:0-${VARIANT}
 Label Author: Dan Campbell
-Label Module: CIS2152
-Label Year: 2023
+Label Module: CIS2701
+Label Year: 2024/25
