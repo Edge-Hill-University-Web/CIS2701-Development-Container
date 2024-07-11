@@ -1,7 +1,7 @@
-# CIS2152 Fundamentals of Web Coding
+# CIS2701 Fundamentals of Web Coding
 
-**[ Ready for 2023 ]** 
-A Visual Studio-based Development Container for CIS2152.
+**[ Preparing for 2024/25 ]** 
+A Visual Studio-based Development Container for CIS2701.
 
 
 ## Requirements
@@ -11,7 +11,7 @@ A Visual Studio-based Development Container for CIS2152.
 
 ## About: Dev Environment
 
-The development environment contains everything you need for **CIS2152**. This includes the following:
+The development environment contains everything you need for **CIS2701 **. This includes the following:
 
 - **Javascript**
 
